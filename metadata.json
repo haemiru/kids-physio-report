@@ -1,0 +1,7 @@
+{
+  "name": "Cerebral Palsy Survival Condition Tracker",
+  "description": "A specialized tool for rehabilitation therapists to monitor and analyze the survival condition (vitals, diet, exercise, and bowel movements) of children with cerebral palsy and developmental disabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
